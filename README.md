@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tylerjj
-- 👀 As a recent graduate, I’m actively searching for entry level software development positions. I find development that contains a visual component to be the most engaging (web-dev, game-dev, mobile-dev, etc.), but I'm primarily interested in a workspace that is welcoming towards industry newcomers. 
-- 🌱 I spent the summer dipping my toes into the topics of Unity 2D Development and 3D modeling, as well as refamiliarizing myself with web development and making my portfolio site. This fall, I spent the semester working with web development in the form of React, mobile development with Android Studio and React Native, as well as learning some computer graphics fundamentals.  
+- 👋 Hi, I’m @tylerjj, also known as Tyler Johnston.
+- 👀 As a recent graduate, I’m actively searching for entry level software development positions. I find front-end development to be the most rewarding work, but I'm happy to expand my horizons and work with new skills. The goal is to never stop learning.
+- 🌱 My portfolio site can be found at https://tylerjj.github.io. There I've got a handful of project writeups from this most recent semester, including a course enrollment application made with React, a campus resource finder made with a team in Android Studio (Java), and a gallery of scripts from computer graphics. 
 - 📫 How to reach me: tylerj.johnston@outlook.com
 
 <!---
